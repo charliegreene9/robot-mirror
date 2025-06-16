@@ -1,0 +1,10 @@
+X Add pyproject.toml
+X Setup the pre-commit hooks
+X Format code
+X Add .sh file
+Generic metadata for software
+X Create hook to add minimum requirements
+Make sure requirements.txt covers all basics
+X Test in a VM
+Include autodocstring??
+Add check for hardcoded strings that might be passwords, keys, usernames, etc

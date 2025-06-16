@@ -1,0 +1,15 @@
+{
+    "System": "Linux",
+    "Node Name": "pop-os",
+    "Release": "6.12.10-76061203-generic",
+    "Version": "#202412060638~1743109366~22.04~1fce33b SMP PREEMPT_DYNAMIC Thu M",
+    "Machine": "x86_64",
+    "Processor": "x86_64",
+    "Physical_cores": 4,
+    "Total_cores": 8,
+    "Max_Frequency": "4800.00Mhz",
+    "Min_Frequency": "400.00Mhz",
+    "Total": "15.44GB",
+    "Available": "10.34GB",
+    "GPU": "NA"
+}
