@@ -41,3 +41,8 @@ out_img.save("differences_1.jpg")
 # Include suggestions for the difference and how to correct for it
 
 # Include a threshold margin of error
+
+# TODO: Include test for image compression
+# TODO: Test vector images
+# TODO: Test for text changes
+# TODO: Create standard output showing difference
