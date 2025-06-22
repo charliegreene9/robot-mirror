@@ -2,3 +2,5 @@ ruff
 psutil
 gputil
 pre-commit
+pillow
+numpy

@@ -26,3 +26,7 @@ uv init
 uv add -r requirements.txt
 pre-commit install
 python get_spec.py
+# Additional line to ensure that pip has been included and is up to date
+# UV can miss including pip
+# python -m ensurepip --default-pip
+# pip install --upgrade pip
